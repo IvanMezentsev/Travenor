@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104739740940",
+    "project_id": "travenor-d249b",
+    "storage_bucket": "travenor-d249b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104739740940:android:e7a4ca71ec9e273639bd29",
+        "android_client_info": {
+          "package_name": "com.example.travenor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bSDgweu-mXJaCZJ-ga9fzzyn-3paM-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

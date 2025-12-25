@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="travenor_blue">#24BAEC</color>
+    <color name="travenor_orange">#FF7029</color>
+    <color name="text_primary">#1B1E28</color>
+    <color name="text_secondary">#7D848D</color>
+    <color name="input_background">#F7F7F9</color>
+</resources>
