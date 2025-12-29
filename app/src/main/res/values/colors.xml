@@ -7,4 +7,5 @@
     <color name="text_primary">#1B1E28</color>
     <color name="text_secondary">#7D848D</color>
     <color name="input_background">#F7F7F9</color>
+    <color name="light_bg_color">#CAEAFF</color>
 </resources>
