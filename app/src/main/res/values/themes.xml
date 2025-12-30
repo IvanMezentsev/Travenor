@@ -5,5 +5,10 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif</item> <item name="android:textStyle">normal</item>
+    </style>
+
     <style name="Theme.Travenor" parent="Base.Theme.Travenor" />
 </resources>
